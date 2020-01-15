@@ -1,0 +1,7 @@
+{
+    "dependencies": {
+        "commander": "^4.1.0",
+        "es7": "npm:@elastic/elasticsearch@^7.0.0",
+        "omelette": "^0.4.12"
+    }
+}
